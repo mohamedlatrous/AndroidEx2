@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu sapien urna. Sed sem massa, rutrum id purus sed, sagittis mollis nulla. Aenean vel lorem semper, aliquet ex sagittis, porta sapien. Cras semper neque sed dolor vehicula vestibulum id sit amet mauris. Aenean volutpat, velit eget mollis condimentum, purus erat egestas leo, non hendrerit nisi metus sit amet purus. Integer non porttitor lacus, eu iaculis justo. Cras gravida, velit at posuere rutrum, lectus ipsum rhoncus nisl, eu suscipit orci magna non turpis. In hac habitasse platea dictumst. Sed elit tortor, fermentum semper dictum rutrum, sagittis sit amet massa.
+
+Maecenas semper sit amet risus sed vehicula. In facilisis dictum turpis. Maecenas vulputate fermentum malesuada. Pellentesque quis imperdiet arcu, quis cursus leo. Mauris ultricies, neque posuere imperdiet consectetur, ante ex efficitur tellus, ac placerat libero ligula non augue. Nullam malesuada finibus dui, id ullamcorper neque consectetur in. Nunc faucibus molestie sem, vitae rhoncus libero tincidunt vel.
+
+Fusce auctor velit vitae sollicitudin tempus. Donec vitae sapien in velit fermentum consectetur. Mauris varius purus sapien, vitae facilisis quam ultricies at. Nullam eu lorem sit amet nulla porta convallis. In sollicitudin odio ipsum, et dictum orci efficitur et. Praesent posuere ex eget condimentum fermentum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas et fringilla mauris.
+
+Morbi fringilla, mauris id varius semper, ex purus feugiat ligula, et ullamcorper nunc dolor sed sem. Aenean porta cursus elit, in convallis turpis mattis nec. Donec in erat risus. Maecenas pulvinar, dolor eu suscipit consequat, felis ipsum mattis quam, eu tempus nisi ipsum eget lacus. Fusce nec mollis justo. Curabitur non ex dictum mauris vulputate pulvinar. Mauris sed tristique nibh, non auctor mauris. In sit amet eros massa. Phasellus eu elit vulputate, aliquam nunc eu, varius tortor.
+
+Suspendisse porttitor imperdiet leo id elementum. Aliquam sit amet blandit purus. Nunc placerat tortor eu nisl bibendum efficitur. Nulla laoreet venenatis lectus, a dignissim lacus imperdiet ac. Duis vel nisl fermentum justo egestas luctus et eu magna. Fusce vehicula lectus quis urna accumsan, vel tincidunt risus blandit. Nunc consectetur erat diam, pulvinar mollis dui laoreet eu. Nulla eu lorem nec lectus feugiat condimentum ac sit amet sapien. Nunc id ornare magna, ac maximus orci. Cras vitae est neque. Vivamus eget nunc eu turpis sollicitudin convallis sed posuere nulla. In pharetra nulla nec aliquet tempus. Aliquam ultricies, sem quis bibendum porttitor, erat felis accumsan turpis, id sodales libero erat nec velit. Etiam eget pulvinar nisi. Quisque vel mauris placerat, malesuada massa in, gravida purus. In dictum dui urna, eget tincidunt quam euismod at.
+
+"
+        android:id="@+id/textView"
+        >
+
+    </TextView>
+</LinearLayout>
+</ScrollView>
